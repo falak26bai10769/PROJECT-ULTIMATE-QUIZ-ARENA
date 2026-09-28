@@ -1,8 +1,8 @@
-# Ultimate Quiz Arena PRO
+# Ultimate Quiz Arena
 
 ## Project Description
 
-Ultimate Quiz Arena PRO is an interactive command-line Python quiz game designed to combine learning, competition, and entertainment. The project provides multiple subjects, difficulty levels, game modes, power-ups, mini-games, achievements, XP, coins, player statistics, and a session-based leaderboard.
+Ultimate Quiz Arena is an interactive command-line Python quiz game designed to combine learning, competition, and entertainment. The project provides multiple subjects, difficulty levels, game modes, power-ups, mini-games, achievements, XP, coins, player statistics, and a session-based leaderboard.
 
 The project demonstrates important Python programming concepts such as functions, loops, conditional statements, dictionaries, lists, input handling, randomization, time-based features, calculations, and data processing.
 
@@ -296,10 +296,8 @@ The project provides the following main menu options:
 
 ## Project Structure
 
-The project can be organized as:
-
 ```text
-Ultimate-Quiz-Arena-PRO/
+Ultimate-Quiz-Arena/
 │
 ├── PROJECT-ULTIMATE QUIZ ARENA.py
 └── README.md
@@ -370,6 +368,6 @@ Possible future improvements include:
 
 ## Conclusion
 
-Ultimate Quiz Arena PRO combines educational quizzes with game-based features to create an interactive learning experience. It demonstrates how core Python concepts can be combined to build a complete command-line application with multiple systems such as scoring, levels, achievements, power-ups, mini-games, and performance tracking.
+Ultimate Quiz Arena combines educational quizzes with game-based features to create an interactive learning experience. It demonstrates how core Python concepts can be combined to build a complete command-line application with multiple systems such as scoring, levels, achievements, power-ups, mini-games, and performance tracking.
 
 The project focuses on making learning more engaging while providing practical implementation of Python programming concepts.
